@@ -1,0 +1,29 @@
+name: EPG Service
+
+on:
+  schedule:
+    #     - cron:  '45 3 * * *' # every day at 3:45am UTC (9:15am IST)
+    - cron: "45 16 * * *" # test
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests xmltodict
+      - name: Run EPG Service
+        run: python ./tv/epg.py ./tv/epg.xml
+      - name: Commit report
+        run: |
+          git config --global user.name 'botallen'
+          git config --global user.email 'botallen@users.noreply.github.com'
+          git commit -am "Automated EPG"
+          git push

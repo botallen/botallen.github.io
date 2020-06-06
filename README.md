@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  <a href="https://github.com/botallen/repository.botallen"><img src="repository.botallen/icon2.png" height="60" width="60"></a>
+  <a href="https://github.com/botallen/repository.botallen"><img src="https://github.com/botallen/repository.botallen/raw/master/repository.botallen/icon2.png" height="60" width="60"></a>
   <br>
   BotAllen
   <br>
@@ -44,8 +44,6 @@
   </a>
   
  </p>
-  
-
 
 <br>
 
@@ -54,32 +52,32 @@
 <p align="center">
 <span style="display: inline-block;">
   <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.jiotvplus">
-    <img src="plugin.video.jiotvplus/resources/icon.png" width="175" height="100">
+    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.jiotvplus/resources/icon.png" width="175" height="100">
   </a>
 </span>
   
 <span style="display: inline-block;">
   <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.botallen.hotstar">
-    <img src="plugin.video.botallen.hotstar/resources/icon.jpg" width="100" height="100">
+    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.botallen.hotstar/resources/icon.jpg" width="100" height="100">
   </a>
 </span>
 
 <span style="display: inline-block;">
   <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.tvfplay">
-    <img src="plugin.video.tvfplay/resources/icon.png" width="100" height="100">
+    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.tvfplay/resources/icon.png" width="100" height="100">
   </a>
 </span>
 
 <span style="display: inline-block;">
   <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.jiotv">
-    <img src="plugin.video.jiotv/resources/icon.png" width="100" height="100">
+    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.jiotv/resources/icon.png" width="100" height="100">
   </a>
 </span>
 </p>
 
 ## Install
 
-<img align="right" src="media/install.gif" height=250>
+<img align="right" src="https://github.com/botallen/repository.botallen/raw/master/media/install.gif" height=250>
 
 - Add this file source in file manager : https://kodi.botallen.com
 - Click on Install From zip file
@@ -88,7 +86,7 @@
 
 ## Download
 
-[**Download**](https://github.com/botallen/repository.botallen/releases/download/v1.0.0/repository.botallen-1.0.0.zip) the `.zip` file.
+<b><a href="https://github.com/botallen/repository.botallen/releases/download/v1.0.0/repository.botallen-1.0.0.zip">Download</a></b>the `.zip` file.
 
 ## Support
 

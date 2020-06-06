@@ -1,12 +1,7 @@
 <h2 align="center">
   <br>
-  <a href="https://github.com/botallen/repository.botallen"><img src="media/logo_inverse.png" height="60" width="60"></a>
-  <br>
-  BotAllen
-  <br>
+  <a href="https://github.com/botallen/repository.botallen"><img src="media/icon.png" height="120" width="120"></a>
 </h2>
-
-<h4 align="center">BotAllen Kodi Repository</h4>
 
 <p align="center">
 
@@ -75,9 +70,9 @@
 </span>
 </p>
 
-## Install
+<br>
 
-<img align="right" src="media/install.gif" height=250>
+## Install
 
 <p align="left">
   <ul>
@@ -85,7 +80,7 @@
     <li>Click on "Add source"</li>
     <li>The path for the source is <code>https://kodi.botallen.com/</code> (Give it the name "BotAllen Repo").</li>
     <li>Go to "Addons"</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, select "BotAllen Repository", and install <a href="https://github.com/botallen/repository.botallen/releases/download/v1.0.0/repository.botallen-1.0.0.zip">repository.botallen-1.0.0.zip</a>.</li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, select "BotAllen Repository", and install <a href="repository.botallen-1.0.0.zip">repository.botallen-1.0.0.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "BotAllen Repository"</li>
     <li>Go into the "Video add-ons" section in the repo, and you'll find all video add-ons</li>

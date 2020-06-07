@@ -2,11 +2,11 @@ name: EPG Service
 
 on:
   schedule:
-    #     - cron:  '45 3 * * *' # every day at 3:45am UTC (9:15am IST)
-    - cron: "45 16 * * *" # test
+    - cron: "30 3 * * *" # every day at 3:30am UTC (9:00am IST)
+#     - cron:  '45 16 * * *' # test
 
 jobs:
-  build:
+  epg:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,9 +19,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests xmltodict
-      - name: Run EPG Service
+      - name: Get EPG Data
         run: python ./tv/epg.py ./tv/epg.xml
-      - name: Commit report
+      - name: Commit updated epg.xml
         run: |
           git config --global user.name 'botallen'
           git config --global user.email 'botallen@users.noreply.github.com'

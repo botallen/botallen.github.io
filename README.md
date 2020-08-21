@@ -47,25 +47,25 @@
 <p align="center">
 <span style="display: inline-block;">
   <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.jiotvplus">
-    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.jiotvplus/resources/icon.png" width="175" height="100">
+    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.jiotvplus/resources/icon.png" alt="JioTV+" width="175" height="100">
   </a>
 </span>
   
 <span style="display: inline-block;">
   <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.botallen.hotstar">
-    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.botallen.hotstar/resources/icon.jpg" width="100" height="100">
+    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.botallen.hotstar/resources/icon.jpg" alt="Disney+ Hotstar" width="100" height="100">
   </a>
 </span>
 
 <span style="display: inline-block;">
   <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.tvfplay">
-    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.tvfplay/resources/icon.png" width="100" height="100">
+    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.tvfplay/resources/icon.png" alt="TVF Play" width="100" height="100">
   </a>
 </span>
 
 <span style="display: inline-block;">
-  <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.jiotv">
-    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.jiotv/resources/icon.png" width="100" height="100">
+  <a href="jiotv/">
+    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.jiotv/resources/icon.png" alt="JioTV" width="100" height="100">
   </a>
 </span>
 </p>

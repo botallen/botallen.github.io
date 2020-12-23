@@ -22,7 +22,7 @@ jobs:
       - name: Get EPG Data
         run: |
           python ./tv/epg.py ./tv/epg.xml
-          tar -czvf epg.xml.gz epg.xml
+          tar -czvf ./tv/epg.xml.gz ./tv/epg.xml
       - name: Commit updated epg.xml
         run: |
           git config --global user.name 'botallen'

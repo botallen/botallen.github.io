@@ -20,7 +20,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests xmltodict
       - name: Get EPG Data
-        run: python ./tv/epg.py ./tv/epg.xml
+        run: |
+          python ./tv/epg.py ./tv/epg.xml
+          tar -czvf epg.xml.gz epg.xml
       - name: Commit updated epg.xml
         run: |
           git config --global user.name 'botallen'

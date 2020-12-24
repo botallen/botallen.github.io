@@ -25,6 +25,7 @@ jobs:
           tar -czvf ./tv/epg.xml.gz ./tv/epg.xml
       - name: Commit updated epg.xml
         run: |
+          git add .
           git config --global user.name 'botallen'
           git config --global user.email 'botallen@users.noreply.github.com'
           git commit -am "Automated EPG"

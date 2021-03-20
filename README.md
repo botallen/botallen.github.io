@@ -45,32 +45,19 @@
 <h2 align="center">Add-ons</h2>
 
 <p align="center">
-<span style="display: inline-block;">
-  <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.jiotvplus">
-    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.jiotvplus/resources/icon.png" alt="JioTV+" width="175" height="100">
-  </a>
-</span>
   
 <span style="display: inline-block;">
-  <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.botallen.hotstar">
-    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.botallen.hotstar/resources/icon.jpg" alt="Disney+ Hotstar" width="100" height="100">
+  <a href="https://github.com/botallen/plugin.video.botallen.hotstar">
+    <img src="https://raw.githubusercontent.com/botallen/plugin.video.botallen.hotstar/main/resources/icon.jpg" width="100" height="100">
   </a>
 </span>
 
 <span style="display: inline-block;">
-  <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.tvfplay">
-    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.tvfplay/resources/icon.png" alt="TVF Play" width="100" height="100">
-  </a>
-</span>
-
-<span style="display: inline-block;">
-  <a href="https://github.com/botallen/repository.botallen/tree/master/plugin.video.jiotv">
-    <img src="https://github.com/botallen/repository.botallen/raw/master/plugin.video.jiotv/resources/icon.png" alt="JioTV" width="100" height="100">
+  <a href="https://github.com/botallen/plugin.video.jiotv">
+    <img src="https://raw.githubusercontent.com/botallen/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
   </a>
 </span>
 </p>
-
-<br>
 
 ## Install
 
@@ -80,7 +67,7 @@
     <li>Click on "Add source"</li>
     <li>The path for the source is <code>https://kodi.botallen.com/</code> (Give it the name "BotAllen Repo").</li>
     <li>Go to "Addons"</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, select "BotAllen Repository", and install <a href="repository.botallen-1.0.0.zip">repository.botallen-1.0.0.zip</a>.</li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, select "BotAllen Repository", and install <a href="repository.botallen-2.0.0.zip">repository.botallen-2.0.0.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "BotAllen Repository"</li>
     <li>Go into the "Video add-ons" section in the repo, and you'll find all video add-ons</li>
